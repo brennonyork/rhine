@@ -7,7 +7,10 @@ aims to expose how common Lisp constructs map to hardware.
 
 ## Building
 
-`brew install llvm` and `opam install llvm` before invoking `make`.
+1. `brew install llvm`
+2. `opam install llvm`
+3. `opam install ocamlfind`
+4. `make`
 
 ## How it works
 
