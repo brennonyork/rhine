@@ -8,9 +8,8 @@ aims to expose how common Lisp constructs map to hardware.
 ## Building
 
 1. `brew install llvm`
-2. `opam install llvm`
-3. `opam install ocamlfind`
-4. `make`
+2. `opam install llvm ocamlfind`
+3. `make`
 
 ## How it works
 
